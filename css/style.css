@@ -1,0 +1,20 @@
+.jumbotron{
+    background-image: url("../img/img/bg.png");
+    height: 1000px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    color: white;
+}
+.padding{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+.padding-2{
+    padding-top: 75px;
+}
+.padding-3{
+    padding-left: 100px;
+}
